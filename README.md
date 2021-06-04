@@ -1,6 +1,10 @@
 # bitcoin_ticker
 
-A Simple Cryptocurrency Price Tracker
+A Simple Cryptocurrency Price Tracker application.
+
+https://user-images.githubusercontent.com/51168410/120751407-92a9de80-c525-11eb-80f3-2ee2868284ef.mp4
+
+
 
 ## Getting Started
 
